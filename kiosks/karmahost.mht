@@ -1,0 +1,162 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://hotspot.yourkarma.com/
+Subject: Karma
+Date: Sun, 15 Jan 2023 23:39:16 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--QkNAWTFrP25y2w2sEk3VyY834V9dLh9pyO9wcV3SWh----"
+
+
+------MultipartBoundary--QkNAWTFrP25y2w2sEk3VyY834V9dLh9pyO9wcV3SWh----
+Content-Type: text/html
+Content-ID: <frame-8B8388FE00F3C197FA454836C8B8D3D4@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://hotspot.yourkarma.com/
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D=
+"cid:css-8ccb76dd-eeec-40e4-854b-aa580e450af6@mhtml.blink" />
+    <title>Karma</title>
+   =20
+    <meta http-equiv=3D"x-dns-prefetch-control" content=3D"on">
+    <link rel=3D"dns-prefetch" href=3D"https://dy53q6sor7j4i.cloudfront.net=
+/">
+    <link rel=3D"dns-prefetch" href=3D"https://go.yourkarma.com/">
+    <link rel=3D"dns-prefetch" href=3D"https://assets.yourkarma.com/">
+   =20
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, minimum-scale=
+=3D1.0, maximum-scale=3D1.0, user-scalable=3Dno">
+  </head>
+
+  <body>
+    <div class=3D"container">
+      <div class=3D"box">
+        <span class=3D"logo"></span>
+        <p class=3D"phrase">Hang here a minute.</p>
+        <p class=3D"errormsg"><span></span> <a class=3D"retry" href=3D"http=
+://hotspot.yourkarma.com/">Try again?</a></p>
+        <p class=3D"subphrase">We're still working to get you online.</p>
+        <div class=3D"loader">
+          <div class=3D"pulse">
+            <div></div>
+            <div></div>
+            <div></div>
+          </div>
+        </div>
+        <p class=3D"errorcode"></p>
+      </div>
+    </div>
+   =20
+
+ =20
+
+</body></html>
+------MultipartBoundary--QkNAWTFrP25y2w2sEk3VyY834V9dLh9pyO9wcV3SWh----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-8ccb76dd-eeec-40e4-854b-aa580e450af6@mhtml.blink
+
+@charset "utf-8";
+
+@font-face { font-family: Lexia; src: url("//hotspot.yourkarma.com/fonts/le=
+xia_rg.woff") format("woff"), url("//hotspot.yourkarma.com/fonts/lexia_rg.t=
+tf") format("truetype"); font-weight: normal; font-style: normal; }
+
+body, html, *, img { margin: 0px; padding: 0px; border: 0px none; }
+
+body { font: 36px / 45px Lexia, Helvetica, Arial, sans-serif; color: rgb(24=
+9, 70, 28); background: rgb(255, 255, 255); }
+
+.container { position: absolute; left: 50%; top: 50%; width: 660px; height:=
+ 300px; margin: -210px 0px 0px -330px; }
+
+.box { overflow: hidden; width: 580px; padding: 40px; color: rgb(249, 70, 2=
+8); text-align: left; }
+
+.logo { background: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4w=
+IiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE=
+4LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC=
+0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwO=
+i8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNp=
+b249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI=
+geG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMH=
+B4IgoJIHZpZXdCb3g9IjAgMCAxNDQgMjE2IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxN=
+DQgMjE2IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPGc+Cgk8cGF0aCBmaWxsPSIjZjk0NjFjIiBk=
+PSJNMTI2LjEsMjEyLjljNC4xLDQuMSwxMC43LDQuMSwxNC44LDBjNC4xLTQuMSw0LjEtMTAuNyw=
+wLTE0LjhsLTI4LjYtMjguNmwxOC4xLTE4LjEKCQljOC40LTguNCwxMy42LTIwLDEzLjYtMzIuOU=
+MxNDQsOTIuOCwxMjMuMiw3Miw5Ny41LDcyQzcxLjgsNzIsNTEsOTIuOCw1MSwxMTguNWMwLDEyL=
+jgsNS4yLDI0LjUsMTMuNiwzMi45aDBsMTguMSwxOC4xbC0xOC4xLDE4LjEKCQljLTQuNiw0LjYt=
+MTEsNy41LTE4LjEsNy41Yy0xNC4xLDAtMjUuNi0xMS41LTI1LjYtMjUuNnYtMTU5QzIwLjksNC4=
+3LDE2LjIsMCwxMC41LDBDNC43LDAsMCw0LjcsMCwxMC41djE1OQoJCUMwLDE5NS4yLDIwLjgsMj=
+E2LDQ2LjUsMjE2YzEyLjgsMCwyNC41LTUuMiwzMi45LTEzLjZsMTguMS0xOC4xTDEyNi4xLDIxM=
+i45eiBNNzkuNCwxMzYuNmMtNC42LTQuNi03LjUtMTEtNy41LTE4LjEKCQljMC0xNC4xLDExLjUt=
+MjUuNiwyNS42LTI1LjZjMTQuMSwwLDI1LjYsMTEuNSwyNS42LDI1LjZjMCw3LjEtMi45LDEzLjU=
+tNy41LDE4LjFoMGwtMTguMSwxOC4xTDc5LjQsMTM2LjZ6Ii8+CjwvZz4KPC9zdmc+") center =
+center no-repeat transparent; display: block; height: 88px; width: 35px; ma=
+rgin: 0px auto 1em; }
+
+.loader { margin: 70px auto 0px; text-align: center; display: block; width:=
+ 81px; height: 27px; }
+
+p { margin: 0px auto; text-align: center; }
+
+p.phrase { margin-top: 50px; }
+
+p.subphrase { color: rgb(97, 103, 108); }
+
+p.errormsg { color: rgb(204, 204, 204); display: none; }
+
+.box.error .loader { display: none; }
+
+.box.error p.phrase { display: none; }
+
+.box.error p.subphrase { display: none; }
+
+.box.error p.errormsg { display: block; }
+
+a.retry { color: rgb(249, 70, 28); }
+
+p.errorcode { color: rgb(204, 204, 204); margin-top: 2em; font-size: 60%; }
+
+@media screen and (max-width: 660px) {
+  body { font: 24px / 30px Lexia, Helvetica, Arial, sans-serif; color: rgb(=
+249, 70, 28); background: rgb(255, 255, 255); }
+  .container { position: relative; left: 0px; top: 0px; width: auto; height=
+: auto; margin: 0px auto; padding: 0px; }
+  .box { width: auto; height: auto; border-radius: 0px; padding: 30px; }
+}
+
+.pulse { position: relative; }
+
+.pulse > div { position: relative; box-sizing: content-box; color: rgb(249,=
+ 70, 28); background: rgb(249, 70, 28); border-color: rgb(249, 70, 28); bor=
+der-style: solid; border-width: 0px; }
+
+.pulse::after { display: table; line-height: 0; clear: both; content: ""; }
+
+@-webkit-keyframes ball-pulse {=20
+  20% { opacity: 1; transform: scale(1); }
+  70% { opacity: 0.1; transform: scale(0.01); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+@keyframes ball-pulse {=20
+  20% { opacity: 1; transform: scale(1); }
+  70% { opacity: 0.1; transform: scale(0.01); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+.pulse > div:nth-child(1) { animation: 750ms ease -525ms infinite normal no=
+ne running ball-pulse; }
+
+.pulse > div:nth-child(2) { animation: 750ms ease -450ms infinite normal no=
+ne running ball-pulse; }
+
+.pulse > div:nth-child(3) { animation: 750ms ease -375ms infinite normal no=
+ne running ball-pulse; }
+
+.pulse > div { display: inline-block; width: 15px; height: 15px; margin: 6p=
+x; float: left; border-radius: 100%; }
+------MultipartBoundary--QkNAWTFrP25y2w2sEk3VyY834V9dLh9pyO9wcV3SWh------
